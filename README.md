@@ -13,7 +13,7 @@ It is based on these papers:
 
 ### Repository structure
 
-´´´markdown
+```
 project/
 ├── README.md
 ├── LLMs4NER/
@@ -21,4 +21,4 @@ project/
 │   └── data/
 │       ├── labeled_data.json
 └── LICENSE
-´´´
+```
